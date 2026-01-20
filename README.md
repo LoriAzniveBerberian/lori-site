@@ -17,5 +17,3 @@ from the repo folder:
 python3 -m http.server 8000
 then open http://localhost:8000
 
-## deploy
-github repo → settings → pages → deploy from branch → main → /(root)
