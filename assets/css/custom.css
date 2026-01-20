@@ -46,11 +46,11 @@
   padding: 12px 12px 14px 12px;
   font-size: 0.95rem;
   line-height: 1.3;
-  opacity: 0.9;
+  opacity: 0.8;
 }
 
 /* optional: slightly tighter buttons in the header */
 .header-nav .button {
-  margin-bottom: 0.7rem;
+  margin-bottom: 0.8rem;
 }
 
