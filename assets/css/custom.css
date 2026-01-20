@@ -1,7 +1,7 @@
 /* small headshot avatar on the home page header */
 .avatar {
-  width: 110px;
-  height: 110px;
+  width: 70px;
+  height: 70px;
   border-radius: 999px;
   overflow: hidden;
   margin: 0 0 1rem 0;
