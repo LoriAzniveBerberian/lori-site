@@ -1,0 +1,108 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>Lori Berberian | Home</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <meta name="description" content="Lori Aznive Berberian- Kelp Forests, Remote Sensing, Coastal Ocean Color." />
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <link rel="stylesheet" href="assets/css/custom.css" />
+  </head>
+
+  <body class="is-preload">
+    <div id="wrapper">
+
+      <section class="intro">
+        <header>
+          <span class="avatar">
+            <img src="images/headshot.jpeg" alt="headshot of lori berberian" />
+          </span>
+
+          <h1>Lori Aznive Berberian</h1>
+          <p>kelp forests · remote sensing · coastal ocean optics</p>
+
+          <ul class="actions header-nav">
+            <li><a href="index.html" class="button small primary">home</a></li>
+            <li><a href="publications.html" class="button small">publications</a></li>
+            <li><a href="teaching.html" class="button small">teaching</a></li>
+            <li><a href="fieldwork.html" class="button small">fieldwork &amp; photos</a></li>
+            <li><a href="cv.html" class="button small">cv</a></li>
+          </ul>
+
+          <ul class="actions">
+            <li><a href="#first" class="arrow scrolly"><span class="label">next</span></a></li>
+          </ul>
+        </header>
+
+        <div class="content">
+          <span class="image fill" data-position="center">
+            <img src="images/05.jpg" alt="background image" />
+          </span>
+        </div>
+      </section>
+
+      <section id="first">
+        <header>
+          <h2>about</h2>
+        </header>
+        <div class="content">
+          <p>
+            i’m a phd student at ucla studying wildfire-driven change in the coastal ocean and impacts on
+            canopy-forming kelps. my work combines satellite and drone observations with in situ measurements
+            to interpret reflectance signals across the visible, red, and nir spectrum.
+          </p>
+        </div>
+      </section>
+
+      <section>
+        <header>
+          <h2>links</h2>
+        </header>
+        <div class="content">
+          <ul class="items">
+            <li>
+              <h3>linkedin</h3>
+              <a href="https://www.linkedin.com/in/lori-berberian-8572841ba/" target="_blank" rel="noopener noreferrer">
+                linkedin.com/in/lori-berberian
+              </a>
+            </li>
+            <li>
+              <h3>google scholar</h3>
+              <a href="https://scholar.google.com/citations?user=DTJRZF8AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
+                scholar profile
+              </a>
+            </li>
+            <li>
+              <h3>github</h3>
+              <a href="https://github.com/LoriAzniveBerberian" target="_blank" rel="noopener noreferrer">
+                github.com/LoriAzniveBerberian
+              </a>
+            </li>
+            <li>
+              <h3>writing</h3>
+              <a href="https://newlinesmag.com/writers/lori-berberian/" target="_blank" rel="noopener noreferrer">
+                newlinesmag.com/writers/lori-berberian
+              </a>
+            </li>
+            <li>
+              <h3>email</h3>
+              <a href="mailto:your.email@ucla.edu">your.email@ucla.edu</a>
+            </li>
+          </ul>
+        </div>
+      </section>
+
+      <div class="copyright">
+        &copy; Lori Berberian. Design: <a href="https://html5up.net">HTML5 UP</a>.
+      </div>
+
+    </div>
+
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/jquery.scrolly.min.js"></script>
+    <script src="assets/js/browser.min.js"></script>
+    <script src="assets/js/breakpoints.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <script src="assets/js/main.js"></script>
+  </body>
+</html>
