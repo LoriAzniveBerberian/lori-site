@@ -1,5 +1,5 @@
 # Lori Berebrain
-this repository hosts my github pages website.
+this repository hosts my github pages website. and its in beta!
 
 ## pages
 - home: index.html
@@ -12,8 +12,5 @@ this repository hosts my github pages website.
 place images in `images/` and reference them like:
 `<img src="images/myphoto.jpg" alt="">`
 
-## local preview (mac)
-from the repo folder:
-python3 -m http.server 8000
-then open http://localhost:8000
+
 
